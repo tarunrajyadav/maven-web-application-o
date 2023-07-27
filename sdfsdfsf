@@ -1,0 +1,33 @@
+[33mcommit c7d1a2830f16a417cccca45653ab94ebb44a477e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mtestingbranch[m[33m)[m
+Author: Tarun <taruunrajkumar01@gmail.com>
+Date:   Thu Jul 20 17:00:44 2023 +0530
+
+    first commit of index.html file
+
+[33mcommit 71aeb9dfefa51dfc69e4f14627977f5b7ccfa786[m
+Author: Tarun <taruunrajkumar01@gmail.com>
+Date:   Thu Jul 20 16:56:29 2023 +0530
+
+    commiting practice.java for the second time
+
+[33mcommit e92f48c574af616d5b71c6892b64e44dbbdf4182[m
+Author: Tarun <taruunrajkumar01@gmail.com>
+Date:   Thu Jul 20 16:46:22 2023 +0530
+
+    Revert " "first commit of practice.java""
+    
+    This reverts commit 0cd076888d6f055f5a35a26ed31476818d6a11ab.
+
+[33mcommit 0cd076888d6f055f5a35a26ed31476818d6a11ab[m
+Author: Tarun <taruunrajkumar01@gmail.com>
+Date:   Thu Jul 20 16:43:03 2023 +0530
+
+     "first commit of practice.java"
+    
+    This reverts commit 5290bcfb99c2057bb703186587c07e6f3db7e3a6.
+
+[33mcommit 5290bcfb99c2057bb703186587c07e6f3db7e3a6[m
+Author: Tarun <taruunrajkumar01@gmail.com>
+Date:   Thu Jul 20 15:31:49 2023 +0530
+
+    first commit of practice.java
